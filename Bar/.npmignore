@@ -1,0 +1,21 @@
+# DO NOT IGNORE COMPILED FILES FOR NPM
+# TypeScript
+!*.ts
+!*.d.ts
+.spec.ts
+
+/e2e
+/.idea
+/node_modules
+/obj
+/Properties
+/debug
+/dist
+/config
+webpack.config.js
+karma.conf.js
+protractor.conf.js
+tslint.json
+npm
+replace
+npm-debug.log
